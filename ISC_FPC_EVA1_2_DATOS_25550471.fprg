@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA_1_DATOS_25550471"/>
+        <attribute name="authors" value="equipo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 04:29:19 p. m."/>
+        <attribute name="created" value="ZXF1aXBvO0RFU0tUT1AtMFAzOEFUMTsyMDI1LTA4LTI2OzA0OjI1OjI1IHAuIG0uOzMxNTA="/>
+        <attribute name="edited" value="ZXF1aXBvO0RFU0tUT1AtMFAzOEFUMTsyMDI1LTA4LTI2OzA0OjI5OjE5IHAuIG0uOzE7MzI2NQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;JUNESSY TORRES&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="ISC_FPC_EVA1_4_EMPLEO_25550471"/>
+        <attribute name="authors" value="equipo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-27 11:43:51 p. m."/>
+        <attribute name="created" value="ZXF1aXBvO0RFU0tUT1AtMFAzOEFUMTsyMDI1LTA4LTI3OzExOjM1OjQzIHAuIG0uOzMxNTA="/>
+        <attribute name="edited" value="ZXF1aXBvO0RFU0tUT1AtMFAzOEFUMTsyMDI1LTA4LTI3OzExOjQzOjUxIHAuIG0uOzE7MzI1Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EMPLEO: &quot;" newline="False"/>
+            <output expression="&quot;GESTOR DE COBRANZA&quot;" newline="True"/>
+            <output expression="&quot;SALARIO: &quot;" newline="False"/>
+            <output expression="4500" newline="True"/>
+            <output expression="&quot;HORAS SEMANA: &quot;" newline="False"/>
+            <output expression="60" newline="True"/>
+            <output expression="&quot;REQUIERE INGL&#201;S? &quot;" newline="False"/>
+            <output expression="&quot;FALSE&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
