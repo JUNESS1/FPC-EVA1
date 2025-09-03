@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_8_TEMPERATURA_25550471"/>
+        <attribute name="authors" value="equipo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-01 09:45:02 p. m."/>
+        <attribute name="created" value="ZXF1aXBvO0RFU0tUT1AtMFAzOEFUMTsyMDI1LTA5LTAxOzA5OjM1OjQyIHAuIG0uOzMxNDk="/>
+        <attribute name="edited" value="ZXF1aXBvO0RFU0tUT1AtMFAzOEFUMTsyMDI1LTA5LTAxOzA5OjQ1OjAyIHAuIG0uOzM7MzI1Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="C" type="Real" array="False" size=""/>
+            <declare name="F" type="Real" array="False" size=""/>
+            <assign variable="F" expression="50"/>
+            <assign variable="C" expression="5*(F-32)/9"/>
+            <output expression="&quot;La temperatura de grados Fahrenheit a Celsius es: &quot;" newline="True"/>
+            <output expression="C" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

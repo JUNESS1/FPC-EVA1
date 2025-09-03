@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_7_AREA_TRIANGULO_25550471"/>
+        <attribute name="authors" value="equipo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-09-01 09:50:03 p. m."/>
+        <attribute name="created" value="ZXF1aXBvO0RFU0tUT1AtMFAzOEFUMTsyMDI1LTA5LTAxOzA5OjQ2OjA5IHAuIG0uOzMxNTQ="/>
+        <attribute name="edited" value="ZXF1aXBvO0RFU0tUT1AtMFAzOEFUMTsyMDI1LTA5LTAxOzA5OjUwOjAzIHAuIG0uOzE7MzI1MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="base" type="Real" array="False" size=""/>
+            <declare name="altura" type="Real" array="False" size=""/>
+            <declare name="area" type="Real" array="False" size=""/>
+            <assign variable="base" expression="15"/>
+            <assign variable="altura" expression="20"/>
+            <assign variable="area" expression="(base * altura)/2"/>
+            <output expression="&quot;El &#225;rea de un tri&#225;ngulo es: &quot;" newline="True"/>
+            <output expression="area" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
